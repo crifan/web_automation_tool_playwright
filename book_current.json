@@ -1,0 +1,22 @@
+{
+  "title": "跨平台Web自动化神器：Playwright",
+  "description": "介绍支持多个平台的Web自动化神器，playwright。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "web_automation_tool_playwright"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/web_automation_tool_playwright/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/web_automation_tool_playwright/pdf/web_automation_tool_playwright.pdf"
+    }
+  }
+}

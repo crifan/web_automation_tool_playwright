@@ -1,0 +1,17 @@
+# 跨平台Web自动化神器：Playwright
+
+* [前言](README.md)
+* [Playwright概览](overview/README.md)
+* [初始化环境](init_dev_env.md)
+* [基本操作](basic/README.md)
+  * [查找元素](basic/find_element.md)
+  * [查找并点击元素](basic/find_and_click.md)
+  * [输入文字](basic/input_text.md)
+  * [等待元素出现](basic/wait_for.md)
+  * [模拟按键](basic/emulate_key.md)
+  * [获取元素属性值](basic/get_value.md)
+* [举例](example/README.md)
+  * [百度搜索自动化](example/baidu_search.md)
+* [附录](appendix/README.md)
+  * [教程和资料](appendix/doc_tutorial.md)
+  * [参考资料](appendix/reference.md)
