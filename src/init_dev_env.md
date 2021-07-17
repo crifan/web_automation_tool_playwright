@@ -16,7 +16,10 @@ pip install playwright
 playwright install
 ```
 
-或： `python -m playwright install`
+* 或
+  ```bash
+  python -m playwright install
+  ```
 
 注：安装浏览器驱动文件（安装过程稍微有点慢）
 
