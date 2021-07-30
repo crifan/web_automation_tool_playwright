@@ -1,6 +1,6 @@
 {
   "title": "跨平台Web自动化神器：Playwright",
-  "description": "介绍支持多个平台的Web自动化神器，playwright。",
+  "description": "介绍支持跨平台的Web自动化神器，playwright。先进行概览介绍；如何初始化搭建Playwright开发环境；在介绍一些基本操作，包括查找和定位元素、查找并直接点击元素、输入文字、等待元素出现、模拟按键输入、获取元素属性等；在列出常见的问题和心得，包括如何初始化Sync的playwright的实例、using Sync API inside the asyncio loop、所有页面加载都超时、browser was not found、给playwright加代理等；以及给出详尽的例子，包括百度搜索自动化、获取谷歌搜索结果以及其他一些小例子；最后给出教程和资料。",
   "pluginsConfig": {
     "autocover": {
       "title": "Gitbook演示"
@@ -13,10 +13,10 @@
       ]
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/web_automation_tool_playwright/website/"
+      "prefix": "https://book.crifan.com/books/web_automation_tool_playwright/website/"
     },
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/web_automation_tool_playwright/pdf/web_automation_tool_playwright.pdf"
+      "url": "https://book.crifan.com/books/web_automation_tool_playwright/pdf/web_automation_tool_playwright.pdf"
     }
   }
 }

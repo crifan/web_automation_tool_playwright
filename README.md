@@ -1,11 +1,11 @@
 # 跨平台Web自动化神器：Playwright
 
-* 最新版本：`v1.0`
-* 更新时间：`20210717`
+* 最新版本：`v2.0`
+* 更新时间：`20210730`
 
 ## 简介
 
-介绍支持多个平台的Web自动化神器，playwright。
+介绍支持跨平台的Web自动化神器，playwright。先进行概览介绍；如何初始化搭建Playwright开发环境；在介绍一些基本操作，包括查找和定位元素、查找并直接点击元素、输入文字、等待元素出现、模拟按键输入、获取元素属性等；在列出常见的问题和心得，包括如何初始化Sync的playwright的实例、using Sync API inside the asyncio loop、所有页面加载都超时、browser was not found、给playwright加代理等；以及给出详尽的例子，包括百度搜索自动化、获取谷歌搜索结果以及其他一些小例子；最后给出教程和资料。
 
 ## 源码+浏览+下载
 
@@ -21,14 +21,14 @@
 
 ### 在线浏览
 
-* [跨平台Web自动化神器：Playwright book.crifan.com](http://book.crifan.com/books/web_automation_tool_playwright/website)
+* [跨平台Web自动化神器：Playwright book.crifan.com](https://book.crifan.com/books/web_automation_tool_playwright/website)
 * [跨平台Web自动化神器：Playwright crifan.github.io](https://crifan.github.io/web_automation_tool_playwright/website)
 
 ### 离线下载阅读
 
-* [跨平台Web自动化神器：Playwright PDF](http://book.crifan.com/books/web_automation_tool_playwright/pdf/web_automation_tool_playwright.pdf)
-* [跨平台Web自动化神器：Playwright ePub](http://book.crifan.com/books/web_automation_tool_playwright/epub/web_automation_tool_playwright.epub)
-* [跨平台Web自动化神器：Playwright Mobi](http://book.crifan.com/books/web_automation_tool_playwright/mobi/web_automation_tool_playwright.mobi)
+* [跨平台Web自动化神器：Playwright PDF](https://book.crifan.com/books/web_automation_tool_playwright/pdf/web_automation_tool_playwright.pdf)
+* [跨平台Web自动化神器：Playwright ePub](https://book.crifan.com/books/web_automation_tool_playwright/epub/web_automation_tool_playwright.epub)
+* [跨平台Web自动化神器：Playwright Mobi](https://book.crifan.com/books/web_automation_tool_playwright/mobi/web_automation_tool_playwright.mobi)
 
 ## 版权说明
 
